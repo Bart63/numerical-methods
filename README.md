@@ -12,7 +12,10 @@ Jacobi's iterrative method
 
 Lagrange and Newton interpolation with Chebyshev points.
 
-
 4. Quadratures
 
 Newton-Cotes and Chebyshev-Gauss quadratures.
+
+5. Approximation
+
+Approximation using chebyshev polynomials.
